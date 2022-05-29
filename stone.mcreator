@@ -1,0 +1,159 @@
+{
+  "mod_elements": [
+    {
+      "name": "AmethystOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_ore"
+    },
+    {
+      "name": "Amethyst",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst"
+    },
+    {
+      "name": "ZiJingHao",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zi_jing_hao"
+    },
+    {
+      "name": "Ethystsword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ethystsword"
+    },
+    {
+      "name": "Zijinjian",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijinjian"
+    },
+    {
+      "name": "Zzijingao",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zzijingao"
+    },
+    {
+      "name": "Xuwujinshuding",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xuwujinshuding",
+      "path": "~/1"
+    },
+    {
+      "name": "Zijingfu",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijingfu"
+    },
+    {
+      "name": "Zijingkuai",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijingkuai"
+    },
+    {
+      "name": "Zijingkuaipeifang",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijingkuaipeifang"
+    },
+    {
+      "name": "Zzijingchu",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zzijingchu"
+    },
+    {
+      "name": "Zijingchu",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijingchu"
+    },
+    {
+      "name": "Zijingqiu",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zijingqiu"
+    },
+    {
+      "name": "Ijingqiuzi",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ijingqiuzi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.stone.amethyst": "×Ï¾§",
+      "item.stone.zijingqiu": "×Ï¾§ÇÂ",
+      "block.stone.amethyst_ore": "×Ï¾§¿ó",
+      "item.stone.zi_jing_hao": "×Ï¾§¸ä",
+      "item.stone.ethystsword": "Ethystsword",
+      "item.stone.xuwujinshuding": "Xuwujinshuding",
+      "block.stone.zijingkuai": "×Ï¾§¿é",
+      "item.stone.zzijingchu": "×Ï¾§³ú",
+      "item.stone.zijingfu": "×Ï¾§¸«"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "1",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "stone",
+    "modName": "stone",
+    "version": "1.0.0",
+    "author": "1989000, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.stone",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
